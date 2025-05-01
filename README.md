@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Sonam Dobriyal!
+#  Hi, I'm Sonam Dobriyal!
 
-🎓 MCA Student | 🤖 AI/ML Enthusiast | 💻 Web Developer | 🔍 Researcher
+MCA Student |  AI/ML Enthusiast | Web Developer |  Researcher
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate computer science student focused on exploring and building in the areas of **Machine Learning**, **Image Processing**, and **Web Development**. I enjoy solving real-world problems with technology and have worked on projects involving **IoT Malware Detection**, **Object Detection**, and **Smart Medication Systems**. I'm always excited to learn new technologies and contribute to meaningful research and development.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **Languages**: Python, C, SQL, JavaScript
 - **Frameworks/Tools**: Flask, Django, OpenCV, Pandas, NumPy, Scikit-learn
@@ -24,10 +24,10 @@ I'm a passionate computer science student focused on exploring and building in t
 
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sonam-dobriyal)  
-- 🌐 [Portfolio](https://sonamdobriyal1.github.io/)
+-  [LinkedIn](https://www.linkedin.com/in/sonam-dobriyal)  
+-  [Portfolio](https://sonamdobriyal1.github.io/)
 
 ---
 
