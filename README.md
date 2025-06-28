@@ -12,11 +12,11 @@ I'm a passionate computer science student focused on exploring and building in t
 
 ##  Tech Stack
 
-- **Languages**: Python, C, SQL, JavaScript
+- **Languages**: Python, C, C++, SQL, JavaScript
 - **Frameworks/Tools**: Flask, Django, OpenCV, Pandas, NumPy, Scikit-learn
-- **Frontend**: HTML, CSS, Bootstrap, React (basic)
+- **Frontend**: HTML, CSS, Bootstrap, TailwindCSS, React
 - **Database**: MySQL, PostgreSQL
-- **Others**: Git, GitHub, VS Code
+- **Others**: Git, GitHub, VS Code, AWS
 
 ---
 
