@@ -46,8 +46,8 @@ I’m passionate about building intelligent systems that solve real-world proble
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SonamDobriyal1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamDobriyal1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -61,8 +61,7 @@ I’m passionate about building intelligent systems that solve real-world proble
 ---
 
 ##  Connect With Me
--  **LinkedIn:** https://linkedin.com/in/sonamdobriyal
--  
+-  **LinkedIn:** https://linkedin.com/in/sonam-dobriyal
 -  **Portfolio:** https://portfolio-1-ashy-omega.vercel.app/
 
 ---
