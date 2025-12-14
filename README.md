@@ -55,14 +55,15 @@ I’m passionate about building intelligent systems that solve real-world proble
 ##  Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SonamDobriyal1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ##  Connect With Me
--  **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
--  **Portfolio:** https://YOUR_PORTFOLIO_LINK
+-  **LinkedIn:** https://linkedin.com/in/sonamdobriyal
+-  
+-  **Portfolio:** https://portfolio-1-ashy-omega.vercel.app/
 
 ---
 
