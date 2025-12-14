@@ -1,41 +1,76 @@
-#  Hi, I'm Sonam Dobriyal!
+<h1 align="center">Hi 👋, I'm Sonam</h1>
 
-MCA Student |  AI/ML Enthusiast | Web Developer |  Researcher
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+%26+Image+Processing;Web+Developer;Building+AI+for+Real-World+Problems" />
+</p>
 
 ---
 
-##  About Me
+ **Computer Science Student** | 🤖 **ML & CV Explorer** | 🌐 **Full-Stack Developer**
 
-I'm a passionate computer science student focused on exploring and building in the areas of **Machine Learning**, **Image Processing**, and **Web Development**. I enjoy solving real-world problems with technology and have worked on projects involving **IoT Malware Detection**, **Object Detection**, and **Smart Medication Systems**. I'm always excited to learn new technologies and contribute to meaningful research and development.
+I’m passionate about building intelligent systems that solve real-world problems. I enjoy working across **Machine Learning, Image Processing, IoT, and Web Development**, turning ideas into scalable and impactful solutions.
+
+> *Driven by curiosity. Grounded in code. Inspired to build.*
+
+---
+
+##  What I’m Working On
+-  Machine Learning & Computer Vision
+-  Object Detection & Image Processing
+-  Smart Medication & Healthcare Systems
+-  Full-Stack Web Applications & Dashboards
 
 ---
 
 ##  Tech Stack
 
-- **Languages**: Python, C, C++, SQL, JavaScript
-- **Frameworks/Tools**: Flask, Django, OpenCV, Pandas, NumPy, Scikit-learn
-- **Frontend**: HTML, CSS, Bootstrap, TailwindCSS, React
-- **Database**: MySQL, PostgreSQL
-- **Others**: Git, GitHub, VS Code, AWS
+###  Languages
+`Python` `C` `C++` `SQL` `JavaScript`
+
+###  Frameworks & Tools
+`Flask` `Django` `OpenCV`  
+`Pandas` `NumPy` `Scikit-learn`
+
+###  Frontend
+`HTML` `CSS` `Bootstrap`  
+`TailwindCSS` `React`
+
+###  Databases
+`MySQL` `Firebase` `MongoDb`
+
+### ☁ Others
+`Git` `GitHub` `VS Code` `AWS`
 
 ---
 
+##  GitHub Stats
 
-
-
-
-##  Connect with Me
-
--  [LinkedIn](https://www.linkedin.com/in/sonam-dobriyal)  
--  [Portfolio](https://sonamdobriyal1.github.io/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-> *“Driven by curiosity. Grounded in code. Inspired to build.”*
+##  Contribution Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-<!---
-SonamDobriyal1/SonamDobriyal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Connect With Me
+-  **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
+-  **Portfolio:** https://YOUR_PORTFOLIO_LINK
+
+---
+
+##  Fun Facts
+-  Love solving complex problems with simple ideas  
+-  Always learning new tools & technologies  
+-  Strong believer in **learning by building**
+
+---
+
+ *If you like my work, feel free to star my repositories and connect with me!*  
