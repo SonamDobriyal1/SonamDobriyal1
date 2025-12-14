@@ -6,7 +6,7 @@
 
 ---
 
- **Computer Science Student** | 🤖 **ML & CV Explorer** | 🌐 **Full-Stack Developer**
+ **Computer Science Student** |  **ML & CV Explorer** |  **Full-Stack Developer**
 
 I’m passionate about building intelligent systems that solve real-world problems. I enjoy working across **Machine Learning, Image Processing, IoT, and Web Development**, turning ideas into scalable and impactful solutions.
 
@@ -55,8 +55,9 @@ I’m passionate about building intelligent systems that solve real-world proble
 ##  Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SonamDobriyal1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamDobriyal1&theme=tokyonight" />
 </p>
+
 
 ---
 
